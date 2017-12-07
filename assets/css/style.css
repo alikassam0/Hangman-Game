@@ -1,0 +1,28 @@
+header {
+	border: 1px solid black;
+	width: 980px;
+	height: 150px;
+	margin: auto;
+	text-align: center;
+}
+
+.gamebox {
+	border: 1px solid black;
+	font-size: 16px;
+	text-align: center;
+	margin: auto;
+	height: 300px;
+	width: 80%;
+}
+
+.instructions,
+.winsCount,
+.currentWord,
+.underscores,
+.guessRemaining,
+.guessesCount,
+.lettersGuessed
+.wrongLetters {
+	border: 1px solid black;
+	height: 30px;
+}
